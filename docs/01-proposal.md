@@ -4,7 +4,7 @@
 **Name:**
 **Project:** <!-- Road Trip Planner | Escape Room Adventure | Arcade Game (Snake or Tic-tac-toe) | Sports League Manager | Coffee Shop Order System | Dealer's Choice -->
 **App name:**
-**Repo link:**
+**Repo link:** https://github.com/IsntCaleb/csc110-final-project
 
 ## My idea in two sentences
 <!-- Who uses it, and what does it let them do? -->
